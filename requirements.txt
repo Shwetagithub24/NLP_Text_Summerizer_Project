@@ -1,0 +1,22 @@
+transformers  # library by Hugging Face that provides pre-trained models and tools for natural language processing (NLP) tasks such as text classification, summarization, and translation.
+transformers[sentencepiece]  # supports text tokenizer and detokenizer that can handle subword units effectively, often used with transformer models.
+datasets  #library by Hugging Face that provides easy access to a variety of datasets for NLP tasks. It includes tools for loading, processing, and sharing datasets, facilitating model training and evaluation.
+sacrebleu #Evaluation Metric
+rouge_Score  # ROUGE (Recall-Oriented Understudy for Gisting Evaluation) score
+py7zr  #library for reading and writing 7-Zip archives, allowing users to handle compressed files and archives efficiently.
+pandas
+nltk
+tqdm  #fast, extensible progress bar for Python that can be used in loops to provide visual feedback on the progress of long-running tasks.
+PyYAML
+matplotlib
+torch
+notebook
+boto3 #The Amazon Web Services (AWS) SDK for Python, allowing Python developers to write software that makes use of services like Amazon S3 and EC2.
+mypy-boto3-s3
+python-box==6.0.2 # library that provides a simple and convenient way to manage and manipulate hierarchical data structures, allowing for dot notation access.
+ensure==1.0.2
+fastapi==0.78.0
+uvicorn==0.18.3
+Jinja2==3.1.2 #A templating engine for Python, used to generate dynamic HTML pages and other text-based formats by rendering templates with data.
+
+-e .  # Specifies that the current directory should be installed in editable mode. 
